@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/A2_Car_Price/mlruns/679526791926373343/242b023a2b9145629524819dd76c6d85/artifacts
+end_time: 1757424008793
+entry_point_name: ''
+experiment_id: '679526791926373343'
+lifecycle_stage: active
+run_id: 242b023a2b9145629524819dd76c6d85
+run_name: Ridge-momentum-0.0-method-batch-init-xavier-lr-0.001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757424005770
+status: 3
+tags: []
+user_id: takdanai

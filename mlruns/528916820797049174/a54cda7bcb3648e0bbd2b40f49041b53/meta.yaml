@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/A2_Car_Price/mlruns/528916820797049174/a54cda7bcb3648e0bbd2b40f49041b53/artifacts
+end_time: 1757423804422
+entry_point_name: ''
+experiment_id: '528916820797049174'
+lifecycle_stage: active
+run_id: a54cda7bcb3648e0bbd2b40f49041b53
+run_name: alpha-0.1-reg-Ridge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757423800395
+status: 3
+tags: []
+user_id: takdanai

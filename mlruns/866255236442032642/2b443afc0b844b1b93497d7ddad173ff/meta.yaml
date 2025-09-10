@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/A2_Car_Price/mlruns/866255236442032642/2b443afc0b844b1b93497d7ddad173ff/artifacts
+end_time: 1757423810056
+entry_point_name: ''
+experiment_id: '866255236442032642'
+lifecycle_stage: active
+run_id: 2b443afc0b844b1b93497d7ddad173ff
+run_name: SGD_With_Momentum_(Averaging)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757423810002
+status: 3
+tags: []
+user_id: takdanai

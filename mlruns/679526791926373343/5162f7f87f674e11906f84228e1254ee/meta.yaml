@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/A2_Car_Price/mlruns/679526791926373343/5162f7f87f674e11906f84228e1254ee/artifacts
+end_time: 1757426655381
+entry_point_name: ''
+experiment_id: '679526791926373343'
+lifecycle_stage: active
+run_id: 5162f7f87f674e11906f84228e1254ee
+run_name: PolynomialRegression-momentum-0.0-method-sto-init-xavier-lr-0.01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757426652893
+status: 3
+tags: []
+user_id: takdanai

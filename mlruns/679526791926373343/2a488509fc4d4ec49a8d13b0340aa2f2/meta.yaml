@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/A2_Car_Price/mlruns/679526791926373343/2a488509fc4d4ec49a8d13b0340aa2f2/artifacts
+end_time: 1757424017354
+entry_point_name: ''
+experiment_id: '679526791926373343'
+lifecycle_stage: active
+run_id: 2a488509fc4d4ec49a8d13b0340aa2f2
+run_name: Ridge-momentum-0.9-method-sto-init-zero-lr-0.001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757424014232
+status: 3
+tags: []
+user_id: takdanai

@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/A2_Car_Price/mlruns/751755266931503701/83c2775f18714fa7b27432fabdf40049/artifacts
+end_time: 1757426234277
+entry_point_name: ''
+experiment_id: '751755266931503701'
+lifecycle_stage: active
+run_id: 83c2775f18714fa7b27432fabdf40049
+run_name: Lasso
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757426234238
+status: 3
+tags: []
+user_id: takdanai

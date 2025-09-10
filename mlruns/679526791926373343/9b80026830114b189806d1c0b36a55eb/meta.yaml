@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/A2_Car_Price/mlruns/679526791926373343/9b80026830114b189806d1c0b36a55eb/artifacts
+end_time: 1757426584237
+entry_point_name: ''
+experiment_id: '679526791926373343'
+lifecycle_stage: active
+run_id: 9b80026830114b189806d1c0b36a55eb
+run_name: ElasticNet-momentum-0.0-method-batch-init-zero-lr-0.01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757426581753
+status: 3
+tags: []
+user_id: takdanai

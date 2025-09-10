@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/A2_Car_Price/mlruns/751755266931503701/4c41b941702d42f4b2795edcf4b43c4b/artifacts
+end_time: 1757423809734
+entry_point_name: ''
+experiment_id: '751755266931503701'
+lifecycle_stage: active
+run_id: 4c41b941702d42f4b2795edcf4b43c4b
+run_name: Linear Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757423809692
+status: 3
+tags: []
+user_id: takdanai

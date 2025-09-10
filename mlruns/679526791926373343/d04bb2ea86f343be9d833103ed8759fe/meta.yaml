@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/A2_Car_Price/mlruns/679526791926373343/d04bb2ea86f343be9d833103ed8759fe/artifacts
+end_time: 1757426376527
+entry_point_name: ''
+experiment_id: '679526791926373343'
+lifecycle_stage: active
+run_id: d04bb2ea86f343be9d833103ed8759fe
+run_name: Learning_Rate_0.001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757426376478
+status: 3
+tags: []
+user_id: takdanai

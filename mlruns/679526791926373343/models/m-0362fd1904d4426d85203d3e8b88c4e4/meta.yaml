@@ -1,0 +1,10 @@
+artifact_location: file:///d:/A2_Car_Price/mlruns/679526791926373343/models/m-0362fd1904d4426d85203d3e8b88c4e4/artifacts
+creation_timestamp: 1757426493095
+experiment_id: '679526791926373343'
+last_updated_timestamp: 1757426495472
+model_id: m-0362fd1904d4426d85203d3e8b88c4e4
+model_type: null
+name: model
+source_run_id: 4a1afaaead724875aa41750d99bac364
+status: 2
+status_message: null

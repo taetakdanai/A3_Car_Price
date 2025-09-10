@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/A2_Car_Price/mlruns/679526791926373343/f24ae422f22342168789403eebb99698/artifacts
+end_time: 1757424149106
+entry_point_name: ''
+experiment_id: '679526791926373343'
+lifecycle_stage: active
+run_id: f24ae422f22342168789403eebb99698
+run_name: Lasso-momentum-0.9-method-batch-init-xavier-lr-0.0001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757424146236
+status: 3
+tags: []
+user_id: takdanai

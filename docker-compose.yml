@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  web: 
+    command: python3 app.py
+    image: taetakdanai/a2_car_price:a2_2
+    build: 
+      context: .
+      dockerfile: .Dockerfile
+    platform: linux/amd64
+    environment:
+      - HOST=0.0.0.0
+      - PORT=80
+    ports:
+      - 4000:80
